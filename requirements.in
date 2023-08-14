@@ -1,0 +1,12 @@
+django
+djangorestframework
+requests
+psycopg2
+logging
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+celery
+Redis
+django-celery-results
+python-decouple

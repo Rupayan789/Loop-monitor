@@ -1,0 +1,4 @@
+.env
+Loop/store status2.csv
+*.pyc
+debug.log
